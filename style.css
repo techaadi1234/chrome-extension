@@ -1,0 +1,59 @@
+ section{
+height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    
+  } 
+   body{
+    margin:0;
+    padding:10px;
+    font-style: Arial,Helvetica;
+    min-width: 400px;
+   }
+   #input-el{
+    
+    width:100%;
+    padding-left: 10px;
+    padding-right:10px;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+    padding:8px 8px;
+    
+
+   }
+   
+   #delete-btn{
+    color:#5f9431;
+    border :1px solid #5f9431;
+    border:1px solid ;
+    font-size: medium;
+    padding:6px 6px;
+   } 
+   #input-btn{
+    color:whitesmoke;
+    background-color:#5f9431;
+     border:1px solid #5f9431;
+     font-size: medium;
+    padding:6px 6px;
+   } 
+   #tab-btn{
+    color:whitesmoke;
+    background-color:#5f9431;
+     border:1px solid #5f9431;
+     font-size: medium;
+    padding:6px 6px;
+   } 
+  #ul-el{
+    list-style: none;
+    margin-left:-30px;
+    
+  
+  }
+  li{
+    margin-top: 9px;;
+  }
+  a{
+    color:blue;
+  }
